@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .container2{
+      @apply max-w-3xl mx-auto;
+    }
+  }
